@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "title": "Aktuální čekací doba v muzeu je 30–60 minut.",
-  "body": "Omlouváme se a děkujeme za pochopení.",
+  "enabled": false,
+  "title": "Aktuální čekací doba v muzeu je 30–60 minut. The current waiting time is 30-60 minutes.",
+  "body": "Omlouváme se a děkujeme za pochopení. We apologize and thank you for the understanding. ",
   "button_text": "Zavřít",
   "button_url": "https://muzeumfantastickychiluzi.cz",
   "delay_ms": 600
