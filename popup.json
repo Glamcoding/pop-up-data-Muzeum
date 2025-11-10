@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "title": "Velká novinka v Muzeu fantastických iluzí!",
-  "body": "Aktuální čekací doba je 30 - 60 minut.",
+  "enabled": true,
+  "title": ""Aktuální čekací doba je 30 - 60 minut",
+  "body": "Omlouvám se a děkujeme za pochopení",
   "button_text": "Zavřít",
   "button_url": "https://muzeumfantastickychiluzi.cz",
   "until": "2025-12-31"
